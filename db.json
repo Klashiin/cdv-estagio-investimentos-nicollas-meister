@@ -1,0 +1,22 @@
+{
+    "clientes" : [
+        {
+            "id": 0,
+            "nome": "João Marcos Oliveira",
+            "cpf": 36620045006,
+            "etapa": "Aguardando assinatura de documentos"
+        },
+        {
+            "id": 1,
+            "nome": "Adélio Ferreira Machado",
+            "cpf": 49060653092,
+            "etapa": "Aguardando transferência de recursos"
+        },
+        {
+            "id": 2,
+            "nome": "Glaucia Pereira Lopes",
+            "cpf": 78773498076,
+            "etapa": "Gestão de patrimônio ativa"
+        }
+    ]
+}
